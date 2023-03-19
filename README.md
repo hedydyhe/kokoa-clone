@@ -1,3 +1,2 @@
-# Kokoa Clone with nomadcoders
-
-노마드코더 코코아클론코딩
+# kokoa-clone
+Kokoa Clone with nomadcoders
